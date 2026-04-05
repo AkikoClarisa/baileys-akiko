@@ -1,7 +1,7 @@
 {
-    "name": "@kyuu2nd/baileys",
-    "version": "2.0.3",
-    "description": "WhatsApp API Modification By K",
+    "name": "baileys-akiko",
+    "version": "1.0.0",
+    "description": "WhatsApp API Modification By AkikoClarisa",
     "publishConfig": {
         "access": "public"
     },
@@ -12,14 +12,19 @@
         "whatsapp-chat",
         "whatsapp-group",
         "botwa",
-        "kyuurzy"
+        "akiko",
+        "akikoclarisa"
     ],
-    "homepage": "https://github.com/whiskeysockets/baileys",
-    "profile": {
-        "baseurl": "https://kyuurzy.dev"
+    "homepage": "https://github.com/AkikoClarisa/baileys-akiko#readme",
+    "bugs": {
+        "url": "https://github.com/AkikoClarisa/baileys-akiko/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/AkikoClarisa/baileys-akiko.git"
     },
     "license": "MIT",
-    "author": "Adhiraj Singh",
+    "author": "AkikoClarisa",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
