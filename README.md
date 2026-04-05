@@ -1,7 +1,7 @@
 # 🌟 Baileys Akiko
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AkikoClarisa/baileys-akiko/main/7822d385c3825bd02ec7112a9c01ffb8.gif" alt="Baileys Akiko Thumbnail" />
+  <img src="https://raw.githubusercontent.com/AkikoClarisa/baileys-akiko/main/4af796ba201b5443d8ea5e45614de3f2.gif" alt="Baileys Akiko Thumbnail" />
 </p>
 
 **Baileys Akiko** is a highly optimized, open-source library designed to help developers build automation solutions and integrations with WhatsApp efficiently. Using websocket technology without the need for a browser, this library supports a wide range of features such as message management, chat handling, group administration, interactive messages, and dynamic action buttons.
